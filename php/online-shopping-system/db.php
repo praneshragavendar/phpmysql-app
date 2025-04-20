@@ -1,6 +1,6 @@
 <?php
 
-$servername = "db";
+$servername = "db.fluxcd.svc.cluster.local";
 $username = "msois";
 $password = "Msois@123";
 $db = "myecommerce";
